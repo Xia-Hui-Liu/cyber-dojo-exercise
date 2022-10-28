@@ -1,0 +1,18 @@
+{
+  "name": "removeduplicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "removeDuplicate.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint removeDuplicate.js"
+  },
+  "author": "Cecivia",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  },
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
